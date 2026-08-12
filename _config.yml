@@ -1,0 +1,11 @@
+title: 物理资料
+description: 物理竞赛试卷与学习资料共享 - 知识不应该存在壁垒
+url: https://gfphylxy.github.io
+baseurl: /sanhuanshen
+repository: gfphylxy/sanhuanshen
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
